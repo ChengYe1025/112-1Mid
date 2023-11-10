@@ -3219,3 +3219,8 @@ input, select, textarea {
 			}
 
 	}
+
+	/* input */
+	#input tr:active{
+		background-color: #3eb08f;
+	}
